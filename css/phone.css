@@ -53,13 +53,16 @@
     height: 350px;
     position: relative;
 }
+
 .form-group {
-    width: 80%;
+    width: 300px;
+    /* margin: 0px; */
 }
 /* utility classes */
 .h-primary {
     font-size: 2rem;
 }
+
 .btn {
     font-size: 1rem;
     padding: 3px 5px;
